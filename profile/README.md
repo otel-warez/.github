@@ -1,7 +1,5 @@
 # OpenTelemetry WareZ
 
-![Telescope](./telescope.jpg)
-
 ## 💀 Fun 💀
 
 This organization aims to provide you with endless goblets of fun!
@@ -23,3 +21,5 @@ The distributions will feature components published as part of the OpenTelemetry
 The implicit goal is that this will offer a sandbox for components to make their bones and mature to eventually participate in the OpenTelemetry project.
 
 The other goal is to dogfood what it really feels like to keep up with upstream, the OpenTelemetry Collector Builder, and push for common scripts that can help everyone manage their own distributions.
+
+![telescope](./telescope.jpg)
