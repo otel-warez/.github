@@ -24,9 +24,7 @@ The other goal is to dogfood what it really feels like to keep up with upstream,
 
 ![telescope](./telescope.jpg)
 
-<video src='https://github.com/otel-warez/.github/raw/refs/heads/main/profile/music.mp4' width=200 autoplay loop preload="auto" controls>
-  <source src="https://github.com/otel-warez/.github/raw/refs/heads/main/profile/music.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/32944456-ce49-4b87-ae0c-530e4faab752
 
 Song credits to https://freemusicarchive.org/music/beat-mekanik/
 
