@@ -23,3 +23,10 @@ The implicit goal is that this will offer a sandbox for components to make their
 The other goal is to dogfood what it really feels like to keep up with upstream, the OpenTelemetry Collector Builder, and push for common scripts that can help everyone manage their own distributions.
 
 ![telescope](./telescope.jpg)
+
+<video src='https://github.com/otel-warez/.github/raw/refs/heads/main/profile/music.mp4' width=200 autoplay loop preload="auto" controls>
+  <source src="https://github.com/otel-warez/.github/raw/refs/heads/main/profile/music.mp4" type="video/mp4">
+</video>
+
+Song credits to https://freemusicarchive.org/music/beat-mekanik/
+
