@@ -1,5 +1,7 @@
 # OpenTelemetry WareZ
 
+https://github.com/user-attachments/assets/32944456-ce49-4b87-ae0c-530e4faab752
+
 ## 💀 Fun 💀
 
 This organization aims to provide you with endless goblets of fun!
@@ -23,8 +25,6 @@ The implicit goal is that this will offer a sandbox for components to make their
 The other goal is to dogfood what it really feels like to keep up with upstream, the OpenTelemetry Collector Builder, and push for common scripts that can help everyone manage their own distributions.
 
 ![telescope](./telescope.jpg)
-
-https://github.com/user-attachments/assets/32944456-ce49-4b87-ae0c-530e4faab752
 
 Song credits to https://freemusicarchive.org/music/beat-mekanik/
 
